@@ -1,7 +1,7 @@
 Sr. Business and Data Analyst Take Home Assessment
 
-Description: Please use the three data sets in this file to answer the four questions below. Please submit completed assessments to the email address you recieved this link from, in any format you choose. 
-Data notes: AR = accounts recievable / revenue. AP = accounts payable / cost. GP = gross profit.
+- Description: Please use the three data sets in this repo to answer the five questions below. Please submit completed assessments to the email address you recieved this link from, in any format you choose.
+- Data notes: AR = accounts recievable / revenue. AP = accounts payable / cost. GP = gross profit.
 
 
 1. How do these three datasets relate to each other? Feel free to answer with written description and/or supplemental materials.
