@@ -12,4 +12,4 @@ Sr. Business and Data Analyst Take Home Assessment
 
 4. Describe at least one operational or financial insight from your combined analysis of these three data sets. You may expand upon the results of the SQL queries from previous questions or conduct additional analysis. What is the impact of this insight? Supplemental visualizations encouraged.
 
-5. What observations did you have about the data sets and how did this impact your analysis or assumptions?
+5. What observations did you have about the data sets? Did your observation(s) impact your analysis or assumptions?
